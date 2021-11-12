@@ -1,0 +1,30 @@
+
+# sArchis
+# Simple Arch Installer Script
+sArchis is a simple script for installing arch linux in a very simple way with help of whiptail!
+I tried to make installing arch easier for everyone.
+But highly recommended that install arch with official arch guid and by yourself!
+
+## Usage
+1) Download an iso from archlinux site 
+2) Make a bootable usb with arch iso 
+3) Boot to live archlinux 
+4) Install git package 
+```hs
+Pacman -Sy git 
+```
+5) Clone this repository 
+```hs
+git clone 
+```
+6) Enter to sarchis folder 
+```hs
+cd sarchis 
+```
+7) Run sarchis 
+```hs
+bash sarchis.sh 
+```
+
+## LICENSE
+GPL-3.0
