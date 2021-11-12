@@ -12,7 +12,7 @@ But highly recommended that install arch with official arch guid and by yourself
 3) Boot to live archlinux 
 4) Install git package 
 ```sh
-Pacman -Sy git 
+pacman -Sy git 
 ```
 5) Clone this repository 
 ```sh
