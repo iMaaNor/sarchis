@@ -11,19 +11,19 @@ But highly recommended that install arch with official arch guid and by yourself
 2) Make a bootable usb with arch iso 
 3) Boot to live archlinux 
 4) Install git package 
-```hs
+```sh
 Pacman -Sy git 
 ```
 5) Clone this repository 
-```hs
+```sh
 git clone 
 ```
 6) Enter to sarchis folder 
-```hs
+```sh
 cd sarchis 
 ```
 7) Run sarchis 
-```hs
+```sh
 bash sarchis.sh 
 ```
    
