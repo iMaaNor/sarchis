@@ -16,7 +16,7 @@ pacman -Sy git
 ```
 5) Clone this repository 
 ```sh
-git clone 
+git clone https://github.com/iMaaNor/sarchis 
 ```
 6) Enter to sarchis folder 
 ```sh
