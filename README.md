@@ -1,7 +1,7 @@
 ![sArchis](https://github.com/iMaaNor/sarchis/blob/master/sc.png)
    
 # sArchis 0.9 Beta
-# Simple Arch Installer Script
+## Simple Arch Installer Script
 **sArchis** is a simple script for installing arch linux in a very simple way with help of whiptail!  
 I tried to make installing arch easier for everyone.  
 But highly recommended that install arch with official arch guid and by yourself!   
