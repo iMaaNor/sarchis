@@ -29,3 +29,11 @@ bash sarchis.sh
    
 ## LICENSE
 GPL-3.0
+
+
+## TODO LIST
+- Add comments to code
+- Add more additional softwares
+- Fix translate exceptions
+- Record a tutorial video
+- Add aur script for after installing 
