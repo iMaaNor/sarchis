@@ -4,7 +4,7 @@
 
 setlangttl="Select Language"
 setlangmsg="Select a language that you want to set in installer"
-welcomemsg="Hi, Welcome to sArchis.\n I tried to make installing arch easier for everyone\nBut highly recommended that install arch with official arch guid and by yourself"
+welcomemsg="Hi, Welcome to sArchis.\n I tried to make installing arch easier for everyone\nBut highly recommended that install arch with official archlinux guide and by yourself"
 
 ###---------------- End Of Messeges ----------------###
 
