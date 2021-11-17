@@ -1288,14 +1288,14 @@ setnetwork(){
 
 installarchlinux(){
     clear
-    sed -i '1i Server = http://192.168.1.3:8080' /etc/pacman.d/mirrorlist
+    #sed -i '1i Server = http://192.168.1.3:8080' /etc/pacman.d/mirrorlist
     pacstrap /mnt base base-devel $kernel $kernel-headers linux-firmware nano vim git --noconfirm
     if [ "$partitiontype" == "Btrfs" ]; then
         pacstrap /mnt btrfs-progs --noconfirm
     fi
     arch-chroot /mnt pacman -Syu --noconfirm
     arch-chroot /mnt pacman -S archlinux-keyring --noconfirm
-    sed -i '1i Server = http://192.168.1.3:8080' /mnt/etc/pacman.d/mirrorlist
+    #sed -i '1i Server = http://192.168.1.3:8080' /mnt/etc/pacman.d/mirrorlist
     setfstab
     setlocale
     settimezone
